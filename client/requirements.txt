@@ -1,0 +1,3 @@
+# Python 3.12 recommended; GUI OpenCV is required for cv2.imshow.
+numpy
+opencv-python

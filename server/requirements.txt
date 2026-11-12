@@ -1,0 +1,5 @@
+# CPU版torchは親フォルダのREADME.mdに従って別途導入します。
+numpy
+opencv-python
+insightface==0.7.3
+onnxruntime

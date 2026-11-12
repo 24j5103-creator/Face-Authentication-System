@@ -1,0 +1,5 @@
+https://github.com/minivision-ai/Silent-Face-Anti-Spoofing
+Commit: b6d5f04ad78778917853b25c778acef6d5626d15
+
+YuNet: https://github.com/opencv/opencv_zoo
+Commit: 48b10fa505aeb51fbd127fc60a5c660040e823b7
